@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:05:48.150Z",
+  "generated_at": "2026-10-14T14:05:50.043Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2026-03-22T18:42:47.595Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-09-05T16:55:45.580Z",
+      "last_pushed_at": "2026-09-05T16:55:45.580Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:785": {
+      "kind": "problem",
+      "id": "785",
+      "title": "CLIP Image-Text Alignment Score Filtering",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/785",
+      "path": "problems/0785-clip-image-text-alignment-score-filtering",
+      "first_solved_at": "2026-09-05T17:33:06.512Z",
+      "last_pushed_at": "2026-09-05T17:33:06.512Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
