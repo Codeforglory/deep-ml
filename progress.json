@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:05:43.960Z",
+  "generated_at": "2026-10-14T14:05:46.130Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -104,6 +104,32 @@
       "last_pushed_at": "2026-03-17T15:12:04.986Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-03-21T16:45:07.202Z",
+      "last_pushed_at": "2026-03-21T16:45:07.202Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-03-21T17:11:08.733Z",
+      "last_pushed_at": "2026-03-21T17:11:08.733Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
