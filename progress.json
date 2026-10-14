@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:05:42.052Z",
+  "generated_at": "2026-10-14T14:05:43.960Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -52,6 +52,58 @@
       "last_pushed_at": "2026-03-16T18:50:43.292Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-03-17T12:59:05.207Z",
+      "last_pushed_at": "2026-03-17T12:59:05.207Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-17T13:20:47.020Z",
+      "last_pushed_at": "2026-03-17T13:20:47.020Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-03-17T14:57:54.758Z",
+      "last_pushed_at": "2026-03-17T14:57:54.758Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-03-17T15:12:04.986Z",
+      "last_pushed_at": "2026-03-17T15:12:04.986Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
