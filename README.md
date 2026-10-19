@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-10-17 | [solution](problems/0282-calculate-svm-margin-width) |
 | [CLIP Image-Text Alignment Score Filtering](https://www.deep-ml.com/problems/785) | easy | 2026-09-05 | [solution](problems/0785-clip-image-text-alignment-score-filtering) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-05 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-10-19 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-02-28 | [solution](problems/0042-implement-relu-activation-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-03-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-03-22 | [solution](problems/0081-poisson-distribution-probability-calculator) |
